@@ -26,7 +26,16 @@ Upwork Clients reviews :
 
 🛠️ Languages and Tools :
 
-Javascript  Typescript  React  Storybook Jest NodeJS  ExpressJS 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="42" height="42"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="42" height="42"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="42" height="42"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" title="Storybook" **alt="Storyblock" width="42" height="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="42" height="42"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="42" height="42"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="42" height="42"/>&nbsp;
+</div>&nbsp;
+
  
 📫How to reach me:
 
