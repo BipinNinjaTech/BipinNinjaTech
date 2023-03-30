@@ -1,15 +1,15 @@
-🏆 Top ratedfreelancer in Upwork | Expert React.js Developer | Highly recommended by clients 🏆
+🏆 Top rated freelancer in Upwork | Expert React.js Frontend Developer | Highly recommended by clients 🏆
 
 I'm Bipin, a specialized web developer and wokring as freenacler in Upwork https://www.upwork.com/freelancers/~01b28b42325bcf4d21
 
 I'm providing following services
 
-Providing High-scale, productive, real-world-use web applications
-Providing reusable, efficacy, standard, maintainable code
-Complex project developing
-Progressive web app
-Bug fixing
-Consulting
+- Providing High-scale, productive, real-world-use web applications
+- Providing reusable, efficacy, standard, maintainable code
+- Complex project developing
+- Progressive web app
+- Bug fixing
+- Consulting
 
 Upwork Clients reviews :
 
