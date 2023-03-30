@@ -13,15 +13,15 @@ I'm providing following services
 
 Upwork Clients reviews :
 
-"Bipin is a great developer whom I would always love to work with. His greatest ability is implementing pixel perfect designs."
+🏆 "Bipin is a great developer whom I would always love to work with. His greatest ability is implementing pixel perfect designs."
 
-"Bipin is very talented, strong technical base and he is having great problem solving skills."
+🏆 "Bipin is very talented, strong technical base and he is having great problem solving skills."
 
-"Excellent Job!!. Expert in React App, I would suggest him for all React Projects"
+🏆 "Excellent Job!!. Expert in React App, I would suggest him for all React Projects"
 
-"Bipin is a great and highly skilled developer. I am glad to have worked with him."
+🏆 "Bipin is a great and highly skilled developer. I am glad to have worked with him."
 
-"Extremally good and technically sound person. Supportive. Will hire in future for sure."
+🏆 "Extremally good and technically sound person. Supportive. Will hire in future for sure."
 
 
 🛠️ Languages and Tools :
